@@ -1,2 +1,2 @@
 # Argon
-A games/Proxy Site Made By dsc.gg/radiumnetwork 
+A games/Proxy Site Made By https://dsc.gg/radiumnetwork 
